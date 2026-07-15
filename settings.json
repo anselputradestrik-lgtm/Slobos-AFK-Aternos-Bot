@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Brutal_survival.aternos.me",
+    "port": 47939,
+    "version": "1.26.33.2",
     "try-creative": false
   },
   "position": {
